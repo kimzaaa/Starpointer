@@ -7,12 +7,21 @@
       "title": "Acherna",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "0.11",
-    "distance": "36.72 light years",
-    "spectralType": "K1.5IIIFe-0.5",
-    "coordinates": "Ra: 14h 16m49.3s Dec:+19°02'58.4",
-    "summary": "Arcturus is a red giant star in the northern constellation of Boötes, and the brightest star in the constellation. It has the Bayer designation α Boötis, which is Latinized to Alpha Boötis and abbreviated Alf Boo or α Boo.",
+    "aliases": [
+      "alf Eri",
+      "V* alf Eri",
+      "HD 10144",
+      "HR 472",
+      "SAO 232481",
+      "HIP 7588",
+      "TYC 8478-1395-1",
+      "CD-57 316"
+    ],
+    "magnitude": "0.46",
+    "distance": "139.4 light years",
+    "spectralType": "B6Vpe",
+    "coordinates": "RA: 01h 37m 42.8s / Dec: -57deg 14' 12.3\"",
+    "summary": "Achernar is the brightest star in the constellation of Eridanus and the ninth-brightest in the night sky. It has the Bayer designation Alpha Eridani, which is Latinized from alpha Eridani and abbreviated Alpha Eri or alpha Eri. The name Achernar applies to the primary component of a binary system. The two components are designated Alpha Eridani A (the primary) and B (the secondary), with the latter known informally...",
     "moreInfoUrl": "https://en.wikipedia.org/wiki/Achernar"
   },
   {
@@ -23,13 +32,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
+    "aliases": [
+      "alf Cru",
+      "HIP 60718",
+      "SBC7 462",
+      "SBC9 725",
+      "CEL 4105",
+      "HIC 60718",
+      "UBV 11169",
+      "CPD-62 2745"
+    ],
     "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "distance": "322.0 light years",
+    "spectralType": "B0.5IV+B1V",
+    "coordinates": "RA: 12h 26m 35.9s / Dec: -63deg 05' 56.7\"",
+    "summary": "Acrux is the brightest star in the southern constellation of Crux. It has the Bayer designation alpha Crucis, which is Latinised to Alpha Crucis and abbreviated Alpha Cru or alpha Cru. With a combined visual magnitude of +0.76, it is the 13th-brightest star in the night sky. It is the most southerly star of the asterism known as the Southern Cross and is the southernmost first-magnitude star, 2.3 degrees more...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Acrux"
   },
   {
     "name": "Adhara",
@@ -39,29 +57,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Agena",
-    "catalogId": 68702,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps CMa",
+      "21 CMa",
+      "HD 52089",
+      "HR 2618",
+      "SAO 172676",
+      "HIP 33579",
+      "TYC 6535-3619-1",
+      "CD-28 3666"
+    ],
+    "magnitude": "1.50",
+    "distance": "405.2 light years",
+    "spectralType": "B1.5II",
+    "coordinates": "RA: 06h 58m 37.5s / Dec: -28deg 58' 19.5\"",
+    "summary": "Epsilon Canis Majoris is a binary star system and the second-brightest star in the constellation of Canis Major. Its name is a Bayer designation that is Latinised from epsilon Canis Majoris, and abbreviated Epsilon CMa or epsilon CMa. This is the 22nd-brightest star in the night sky with an apparent magnitude of 1.50. About 4.7 million years ago, it was the brightest star in the night sky, with an apparent magnitude...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Epsilon_Canis_Majoris"
   },
   {
     "name": "Albireo",
@@ -71,13 +82,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet01 Cyg",
+      "bet Cyg A",
+      "6 Cyg A",
+      "HR 7417",
+      "SAO 87301",
+      "HIP 95947",
+      "BD+27 3410",
+      "FK5 732"
+    ],
+    "magnitude": "3.09",
+    "distance": "434.3 light years",
+    "spectralType": "K3II+B9.5V",
+    "coordinates": "RA: 19h 30m 43.3s / Dec: +27deg 57' 34.8\"",
+    "summary": "Albireo is a binary star designated Beta Cygni (beta Cygni, abbreviated Beta Cyg, beta Cyg). The International Astronomical Union uses the name \"Albireo\" specifically for the brightest star in the system. Although designated 'beta', it is fainter than Gamma Cygni, Delta Cygni, and Epsilon Cygni and is the fifth-brightest point of light in the constellation of Cygnus. Appearing to the naked eye to be a single...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Albireo"
   },
   {
     "name": "Alcor",
@@ -87,13 +107,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "g UMa",
+      "80 UMa",
+      "HD 116842",
+      "HR 5062",
+      "SAO 28751",
+      "HIP 65477",
+      "TYC 3850-1384-1",
+      "BD+55 1603"
+    ],
+    "magnitude": "4.01",
+    "distance": "81.7 light years",
+    "spectralType": "A5V+M3-4V",
+    "coordinates": "RA: 13h 25m 13.5s / Dec: +54deg 59' 16.7\"",
+    "summary": "Alcor may refer to: Alcor (star), also known as 80 Ursae Majoris, a star in Ursa Major very close to Mizar Alcor Life Extension Foundation, a foundation that advocates for, researches, and performs cryonics Alcor sailplane, a high altitude pressurized sailplane developed by aeronautical engineer Robert Lamson ALCOR, a programming language French name of the anime and manga hero Kouji Kabuto",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alcor"
   },
   {
     "name": "Aldebaran",
@@ -103,13 +132,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Tau",
+      "87 Tau",
+      "V* alf Tau",
+      "HD 29139",
+      "HR 1457",
+      "SAO 94027",
+      "HIP 21421",
+      "TYC 1266-1416-1"
+    ],
+    "magnitude": "0.86",
+    "distance": "66.6 light years",
+    "spectralType": "K5+III",
+    "coordinates": "RA: 04h 35m 55.2s / Dec: +16deg 30' 33.5\"",
+    "summary": "Aldebaran (Arabic: , lit. 'The Follower') is a star in the zodiac constellation of Taurus. It has the Bayer designation alpha Tauri, which is Latinized to Alpha Tauri and abbreviated Alpha Tau or alpha Tau. Aldebaran varies in brightness from an apparent visual magnitude of 0.75 down to 0.95, making it the brightest star in the constellation, as well as (typically) the fourteenth-brightest star in...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Aldebaran"
   },
   {
     "name": "Alderamin",
@@ -119,13 +157,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Cep",
+      "5 Cep",
+      "HD 203280",
+      "HR 8162",
+      "SAO 19302",
+      "HIP 105199",
+      "TYC 4252-1870-1",
+      "BD+61 2111"
+    ],
+    "magnitude": "2.46",
+    "distance": "49.0 light years",
+    "spectralType": "A8Vn",
+    "coordinates": "RA: 21h 18m 34.8s / Dec: +62deg 35' 08.1\"",
+    "summary": "Alpha Cephei (alpha Cephei, abbreviated Alpha Cep, alpha Cep), officially named Alderamin , is a second magnitude star in the constellation of Cepheus near the northern pole. The star is relatively close to Earth at 49 light years (ly) and drifting closer with a heliocentric radial velocity of about -16 km/s.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alpha_Cephei"
   },
   {
     "name": "Algenib",
@@ -135,13 +182,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Peg",
+      "88 Peg",
+      "V* gam Peg",
+      "HD 886",
+      "HR 39",
+      "SAO 91781",
+      "HIP 1067",
+      "TYC 1179-1775-1"
+    ],
+    "magnitude": "2.84",
+    "distance": "391.5 light years",
+    "spectralType": "B2IV",
+    "coordinates": "RA: 00h 13m 14.2s / Dec: +15deg 11' 00.9\"",
+    "summary": "Gamma Pegasi is a binary star in the constellation of Pegasus, located at the southeast corner of the asterism known as the Great Square. It has the formal name Algenib ; the Bayer designation Gamma Pegasi is Latinized from gamma Pegasi and abbreviated Gamma Peg or gamma Peg. The average apparent visual magnitude of +2.84 makes this the fourth-brightest star in the constellation. The distance to this system...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gamma_Pegasi"
   },
   {
     "name": "Algieba",
@@ -151,13 +207,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Leo",
+      "41 Leo",
+      "HIP 50583",
+      "BD+20 2467",
+      "ADS 7724 AB",
+      "UBV 9555",
+      "* STF 1424AB",
+      "HIC 50583"
+    ],
+    "magnitude": "2.37",
+    "distance": "130.1 light years",
+    "spectralType": "K1-III+G7IIIb",
+    "coordinates": "RA: 10h 19m 58.4s / Dec: +19deg 50' 29.3\"",
+    "summary": "Gamma Leonis, also named Algieba , is a binary star system in the constellation of Leo, made up of two red giants. The primary star is orbited by one known exoplanet.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gamma_Leonis"
   },
   {
     "name": "Algol",
@@ -167,13 +232,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Per",
+      "bet Per B",
+      "bet Per C",
+      "bet Per A",
+      "26 Per",
+      "V* bet Per",
+      "HD 19356",
+      "HR 936"
+    ],
+    "magnitude": "2.12",
+    "distance": "89.9 light years",
+    "spectralType": "B8V",
+    "coordinates": "RA: 03h 08m 10.1s / Dec: +40deg 57' 20.3\"",
+    "summary": "Algol , designated Beta Persei (beta Persei, abbreviated Beta Per, beta Per), known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered. Algol is a three-star system, consisting of Beta Persei Aa1, Aa2, and Ab - in which the hot luminous primary beta Persei Aa1 and the larger, but cooler and fainter, beta Persei...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Algol"
   },
   {
     "name": "Alhena",
@@ -183,13 +257,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Gem",
+      "24 Gem",
+      "HD 47105",
+      "HR 2421",
+      "SAO 95912",
+      "HIP 31681",
+      "TYC 1329-1746-1",
+      "BD+16 1223"
+    ],
+    "magnitude": "1.92",
+    "distance": "109.3 light years",
+    "spectralType": "A1.5IV+",
+    "coordinates": "RA: 06h 37m 42.7s / Dec: +16deg 23' 57.4\"",
+    "summary": "Gamma Geminorum (gamma Geminorum, abbreviated Gamma Gem, gamma Gem), formally named Alhena , is the third-brightest object in the constellation of Gemini. It has an apparent visual magnitude of 1.9, making it easily visible to the naked eye even in urban regions. Based upon parallax measurements with the Hipparcos satellite, it is located at a distance of roughly 109 light-years (33 parsecs).",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gamma_Geminorum"
   },
   {
     "name": "Alioth",
@@ -199,13 +282,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps UMa",
+      "77 UMa",
+      "V* eps UMa",
+      "HD 112185",
+      "HR 4905",
+      "SAO 28553",
+      "HIP 62956",
+      "TYC 3845-1190-1"
+    ],
+    "magnitude": "1.77",
+    "distance": "82.6 light years",
+    "spectralType": "A1III-IVpkB9",
+    "coordinates": "RA: 12h 54m 01.7s / Dec: +55deg 57' 35.4\"",
+    "summary": "Alioth , also called Epsilon Ursae Majoris, is a star in the northern constellation of Ursa Major. The designation is Latinised from epsilon Ursae Majoris and abbreviated Epsilon UMa or epsilon UMa. Despite being designated \"epsilon\" (epsilon), it is the brightest star in the constellation and at magnitude 1.77 is the thirty-third brightest star in the sky. It is the star in the tail of the bear closest to its body...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alioth"
   },
   {
     "name": "Alkaid",
@@ -215,29 +307,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Almach",
-    "catalogId": 9640,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eta UMa",
+      "85 UMa",
+      "HD 120315",
+      "HR 5191",
+      "SAO 44752",
+      "HIP 67301",
+      "TYC 3467-1257-1",
+      "BD+50 2027"
+    ],
+    "magnitude": "1.86",
+    "distance": "103.9 light years",
+    "spectralType": "B3V",
+    "coordinates": "RA: 13h 47m 32.4s / Dec: +49deg 18' 47.8\"",
+    "summary": "Alkaid , also called Eta Ursae Majoris (Latinised from eta Ursae Majoris, abbreviated Eta UMa, eta UMa), is a star in the constellation of Ursa Major. It is the easternmost star in the Big Dipper (or Plough) asterism. However, unlike most stars of the Big Dipper, it is not a member of the Ursa Major moving group. With an apparent visual magnitude of +1.86, it is the third-brightest star in the constellation...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alkaid"
   },
   {
     "name": "Alnair",
@@ -247,13 +332,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Gru",
+      "HD 209952",
+      "HR 8425",
+      "SAO 230992",
+      "HIP 109268",
+      "TYC 8438-1959-1",
+      "CD-47 14063",
+      "GJ 9767"
+    ],
+    "magnitude": "1.71",
+    "distance": "101.0 light years",
+    "spectralType": "B6V",
+    "coordinates": "RA: 22h 08m 14.0s / Dec: -46deg 57' 39.5\"",
+    "summary": "Alnair is a traditional name for two different stars: Alpha Gruis, a star in Grus Zeta Centauri, a star in Centaurus",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alnair"
   },
   {
     "name": "Alnilam",
@@ -263,13 +357,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Ori",
+      "46 Ori",
+      "V* eps Ori",
+      "HD 37128",
+      "HR 1903",
+      "SAO 132346",
+      "HIP 26311",
+      "TYC 4766-2450-1"
+    ],
+    "magnitude": "1.69",
+    "distance": "1977 light years",
+    "spectralType": "B0Ia",
+    "coordinates": "RA: 05h 36m 12.8s / Dec: -01deg 12' 06.9\"",
+    "summary": "Alnilam is the central star of Orion's Belt in the equatorial constellation of Orion. It has the Bayer designation epsilon Orionis, which is Latinised to Epsilon Orionis and abbreviated Epsilon Ori or epsilon Ori. This is a massive, blue supergiant star some 1,250 light-years distant. It is estimated to be 270,000 times as luminous as the Sun, and 28 times as massive.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alnilam"
   },
   {
     "name": "Alnitak",
@@ -279,13 +382,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "zet Ori",
+      "50 Ori",
+      "SAO 132444",
+      "HIP 26727",
+      "BD-02 1338",
+      "* STF 774AB",
+      "HGAM 467",
+      "CEL 921"
+    ],
+    "magnitude": "1.79",
+    "distance": "736.2 light years",
+    "spectralType": "O9.7Ib+B0III",
+    "coordinates": "RA: 05h 40m 45.5s / Dec: -01deg 56' 33.3\"",
+    "summary": "Alnitak is a triple star system in the constellation of Orion. It has the designations zeta Orionis, which is Latinised to Zeta Orionis and abbreviated Zeta Ori or zeta Ori, and 50 Orionis, abbreviated 50 Ori. The system is located at a distance of several hundred parsecs from the Sun and is one of the three main stars of Orion's Belt along with Alnilam and Mintaka. The primary star, Alnitak Aa, is a hot...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alnitak"
   },
   {
     "name": "Alphard",
@@ -295,29 +407,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Alphecca",
-    "catalogId": 76267,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Hya",
+      "30 Hya",
+      "HD 81797",
+      "HR 3748",
+      "SAO 136871",
+      "HIP 46390",
+      "TYC 5460-1592-1",
+      "BD-08 2680"
+    ],
+    "magnitude": "1.97",
+    "distance": "180.3 light years",
+    "spectralType": "K3IIIa",
+    "coordinates": "RA: 09h 27m 35.2s / Dec: -08deg 39' 31.0\"",
+    "summary": "Alphard () is the brightest star in the constellation of Hydra. It has the Bayer designation Alpha Hydrae, which is that is Latinized from alpha Hydrae, and abbreviated Alpha Hya or alpha Hya. It is a giant star, cooler than the Sun but larger and more luminous. It is about 177 light-years away.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alphard"
   },
   {
     "name": "Alpheratz",
@@ -327,13 +432,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf And",
+      "del Peg",
+      "21 And",
+      "V* alf And",
+      "HD 358",
+      "HR 15",
+      "SAO 73765",
+      "HIP 677"
+    ],
+    "magnitude": "2.06",
+    "distance": "97.0 light years",
+    "spectralType": "B8IV-VHgMn",
+    "coordinates": "RA: 00h 08m 23.3s / Dec: +29deg 05' 25.6\"",
+    "summary": "Alpheratz is a prominent star system in the constellation of Andromeda. Pronounced , it has the Bayer designation Alpha Andromedae, Latinised from alpha Andromedae, and abbreviated Alpha And or alpha And, respectively. Alpheratz is the brightest star in the constellation when Mirach (beta Andromedae) undergoes its periodical dimming. Immediately northeast of the constellation of Pegasus, it is the upper left...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alpheratz"
   },
   {
     "name": "Altair",
@@ -343,13 +457,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Aql",
+      "53 Aql",
+      "V* alf Aql",
+      "HD 187642",
+      "HR 7557",
+      "SAO 125122",
+      "HIP 97649",
+      "TYC 1058-3399-1"
+    ],
+    "magnitude": "0.76",
+    "distance": "16.7 light years",
+    "spectralType": "A7Vn",
+    "coordinates": "RA: 19h 50m 47.0s / Dec: +08deg 52' 06.0\"",
+    "summary": "Altair is the brightest star in the constellation of Aquila and the twelfth-brightest star in the night sky. It has the Bayer designation Alpha Aquilae, which is Latinised from alpha Aquilae and abbreviated Alpha Aql or alpha Aql. Altair is an A-type main-sequence star with an apparent visual magnitude of 0.77 and is one of the vertices of the Summer Triangle asterism; the other two vertices are marked by...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Altair"
   },
   {
     "name": "Aludra",
@@ -359,13 +482,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eta CMa",
+      "31 CMa",
+      "V* eta CMa",
+      "HD 58350",
+      "HR 2827",
+      "SAO 173651",
+      "HIP 35904",
+      "TYC 6550-4525-1"
+    ],
+    "magnitude": "2.45",
+    "distance": "1989 light years",
+    "spectralType": "B5Ia",
+    "coordinates": "RA: 07h 24m 05.7s / Dec: -29deg 18' 11.2\"",
+    "summary": "Eta Canis Majoris is a blue supergiant star in the constellation of Canis Major. It has the proper name Aludra, pronounced ; Eta Canis Majoris is its Bayer designation. This star has an apparent visual magnitude that varies between 2.38 and 2.48, which makes it the fifth-brightest in the constellation. Parallax measurements from the Hipparcos mission estimate a large distance of 2,000 light-years....",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Eta_Canis_Majoris"
   },
   {
     "name": "Ankaa",
@@ -375,13 +507,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Phe",
+      "HD 2261",
+      "HR 99",
+      "SAO 215093",
+      "HIP 2081",
+      "TYC 7527-1031-1",
+      "CD-42 116",
+      "GJ 9013"
+    ],
+    "magnitude": "2.37",
+    "distance": "84.7 light years",
+    "spectralType": "K0.5IIIb",
+    "coordinates": "RA: 00h 26m 17.1s / Dec: -42deg 18' 21.6\"",
+    "summary": "Alpha Phoenicis (alpha Phoenicis, abbreviated Alpha Phe or alpha Phe), formally named Ankaa , (with the same pronunciation) is the brightest star in the constellation of Phoenix.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alpha_Phoenicis"
   },
   {
     "name": "Antares",
@@ -391,13 +532,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Sco",
+      "21 Sco",
+      "HR 6134",
+      "SAO 184415",
+      "HIP 80763",
+      "CD-26 11359",
+      "FK5 616",
+      "* GNT 1AB"
+    ],
+    "magnitude": "0.91",
+    "distance": "553.7 light years",
+    "spectralType": "M0.5Iab+B3V:",
+    "coordinates": "RA: 16h 29m 24.5s / Dec: -26deg 25' 55.2\"",
+    "summary": "Antares is the brightest star in the constellation of Scorpius. It has the Bayer designation alpha Scorpii, which is Latinised to Alpha Scorpii. Often referred to as \"the heart of the scorpion\", Antares is flanked by sigma Scorpii and tau Scorpii near the center of the constellation. Distinctly reddish when viewed with the naked eye, Antares is a slow irregular variable star that ranges in brightness from an...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Antares"
   },
   {
     "name": "Arcturus",
@@ -408,52 +558,21 @@
       "attribution": "NASA / ESA / STScI"
     },
     "aliases": [
-      "Alpha Bootis",
-      "16 Bootis",
+      "alf Boo",
+      "16 Boo",
       "HD 124897",
       "HR 5340",
       "SAO 100944",
       "HIP 69673",
-      "TYC 1472-1436-1"
+      "TYC 1472-1436-1",
+      "BD+19 2777"
     ],
-    "magnitude": "0.11",
+    "magnitude": "-0.05",
     "distance": "36.7 light years",
-    "spectralType": "K1.5III Fe-0.5",
-    "coordinates": "RA 14h 16m 49.3s | Dec +19d 02m 58s",
-    "summary": "Arcturus is a red giant star in the northern constellation of Bootes and the brightest star in that constellation. The star has exhausted core hydrogen, expanded into an orange giant, and now fuses helium while radiating four times the Sun's energy.",
+    "spectralType": "K1.5IIIFe-0.5",
+    "coordinates": "RA: 14h 15m 39.7s / Dec: +19deg 10' 56.7\"",
+    "summary": "Arcturus is a red giant star in the northern constellation of Bootes, and the brightest star in the constellation. It has the Bayer designation alpha Bootis, which is Latinized to Alpha Bootis and abbreviated Alf Boo or alpha Boo. With an apparent visual magnitude of -0.05, it is the fourth-brightest star in the night sky and the brightest in the northern celestial hemisphere. Arcturus forms one corner of...",
     "moreInfoUrl": "https://en.wikipedia.org/wiki/Arcturus"
-  },
-  {
-    "name": "Arided",
-    "catalogId": 102098,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Aridif",
-    "catalogId": 102098,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
   },
   {
     "name": "Aspidiske",
@@ -463,13 +582,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "iot Car",
+      "HD 80404",
+      "HR 3699",
+      "SAO 236808",
+      "HIP 45556",
+      "TYC 8595-3312-1",
+      "CD-58 2529",
+      "FK5 351"
+    ],
+    "magnitude": "2.26",
+    "distance": "765.6 light years",
+    "spectralType": "A7Ib",
+    "coordinates": "RA: 09h 17m 05.4s / Dec: -59deg 16' 30.8\"",
+    "summary": "Iota Carinae is a star in the southern constellation of Carina. It has the official name Aspidiske, pronounced ; Iota Carinae is its Bayer designation, which is Latinized from iota Carinae and abbreviated Iota Car or iota Car. With an apparent visual magnitude of 2.2, it is one of the brighter stars in the night sky.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Iota_Carinae"
   },
   {
     "name": "Atria",
@@ -479,13 +607,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf TrA",
+      "HD 150798",
+      "HR 6217",
+      "SAO 253700",
+      "HIP 82273",
+      "TYC 9275-3641-1",
+      "FK5 625",
+      "Gaia DR2 5808357163726971904"
+    ],
+    "magnitude": "1.92",
+    "distance": "390.6 light years",
+    "spectralType": "K2III_Ba1",
+    "coordinates": "RA: 16h 48m 39.9s / Dec: -69deg 01' 39.8\"",
+    "summary": "Atria may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Atria"
   },
   {
     "name": "Avior",
@@ -495,29 +632,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Becrux",
-    "catalogId": 62434,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Car",
+      "HR 3307",
+      "SAO 235932",
+      "HIP 41037",
+      "FK5 315",
+      "SACS 185",
+      "FAUST 2427",
+      "GCRV 5546"
+    ],
+    "magnitude": "1.95",
+    "distance": "605.1 light years",
+    "spectralType": "K3:III+B2:V",
+    "coordinates": "RA: 08h 22m 30.8s / Dec: -59deg 30' 34.1\"",
+    "summary": "Avior may refer to: Avior Airlines - an airline based in Barcelona, Anzoategui, Venezuela Epsilon Carinae, a star",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Avior"
   },
   {
     "name": "Bellatrix",
@@ -527,29 +657,22 @@
       "title": "Bellatrix star field",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Benetnash",
-    "catalogId": 67301,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Ori",
+      "24 Ori",
+      "HD 35468",
+      "HR 1790",
+      "SAO 112740",
+      "HIP 25336",
+      "TYC 113-1856-1",
+      "BD+06 919"
+    ],
+    "magnitude": "1.64",
+    "distance": "252.4 light years",
+    "spectralType": "B2V",
+    "coordinates": "RA: 05h 25m 07.9s / Dec: +06deg 20' 58.9\"",
+    "summary": "Bellatrix is the third-brightest star and a candidate binary star in the constellation of Orion, positioned 5 west of the red supergiant Betelgeuse (Alpha Orionis). It has the Bayer designation gamma Orionis, which is Latinized to Gamma Orionis. With a slightly variable magnitude of around 1.6, it is typically the 25th-brightest star in the night sky. According to parallax measurements by the Hipparcos...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Bellatrix"
   },
   {
     "name": "Betelgeuse",
@@ -560,34 +683,21 @@
       "attribution": "ESO/ALMA (CC BY 4.0)"
     },
     "aliases": [
-      "Alpha Orionis",
+      "alf Ori",
+      "58 Ori",
+      "V* alf Ori",
       "HD 39801",
       "HR 2061",
       "SAO 113271",
-      "HIP 27989"
+      "HIP 27989",
+      "TYC 129-1873-1"
     ],
-    "magnitude": "0.42 (variable)",
-    "distance": "548 light years",
-    "spectralType": "M1-2 Ia-ab",
-    "coordinates": "RA 05h 55m 10.3s | Dec +07d 24m 25s",
-    "summary": "Betelgeuse is a red supergiant in the constellation Orion and one of the largest and most luminous stars visible to the naked eye. It is nearing the end of its life and is expected to explode as a supernova within the next million years.",
+    "magnitude": "0.42",
+    "distance": "497.9 light years",
+    "spectralType": "M1-M2Ia-Iab",
+    "coordinates": "RA: 05h 55m 10.3s / Dec: +07deg 24' 25.4\"",
+    "summary": "Betelgeuse is a red supergiant star in the constellation of Orion. It is usually the tenth-brightest star in the night sky and, after Rigel, the second brightest in its constellation. It is a distinctly reddish, semiregular variable star whose apparent magnitude, varying between +0.0 and +1.6, with a main period near 400 days, has the widest range displayed by any first-magnitude star. Betelgeuse is...",
     "moreInfoUrl": "https://en.wikipedia.org/wiki/Betelgeuse"
-  },
-  {
-    "name": "Birdun",
-    "catalogId": 66657,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
   },
   {
     "name": "Canopus",
@@ -597,13 +707,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Car",
+      "HD 45348",
+      "HR 2326",
+      "SAO 234480",
+      "HIP 30438",
+      "TYC 8534-2277-1",
+      "FK5 245",
+      "WEB 6060"
+    ],
+    "magnitude": "-0.74",
+    "distance": "309.2 light years",
+    "spectralType": "A9II",
+    "coordinates": "RA: 06h 23m 57.1s / Dec: -52deg 41' 44.4\"",
+    "summary": "Canopus is the brightest star in the southern constellation of Carina and the second-brightest star in the night sky. It is designated alpha Carinae, which is romanized (transliterated) to Alpha Carinae. With a visual apparent magnitude of -0.74, it is outshone only by Sirius. Located around 310 light-years from the Sun, Canopus is a bright giant of spectral type A9, so it is essentially white when seen...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Canopus"
   },
   {
     "name": "Capella",
@@ -613,13 +732,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Aur",
+      "13 Aur",
+      "HD 34029",
+      "HR 1708",
+      "SAO 40186",
+      "HIP 24608",
+      "TYC 3358-3141-1",
+      "BD+45 1077"
+    ],
+    "magnitude": "0.08",
+    "distance": "42.8 light years",
+    "spectralType": "G3III:",
+    "coordinates": "RA: 05h 16m 41.4s / Dec: +45deg 59' 52.8\"",
+    "summary": "Capella is the brightest star in the northern constellation of Auriga. It has the Bayer designation alpha Aurigae, which is Latinised to Alpha Aurigae and abbreviated Alpha Aur or alpha Aur. Capella is the sixth-brightest star in the night sky, and the third-brightest in the northern celestial hemisphere after Arcturus and Vega. A prominent object in the northern sky, it is circumpolar to observers north of...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Capella"
   },
   {
     "name": "Caph",
@@ -629,13 +757,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Cas",
+      "11 Cas",
+      "V* bet Cas",
+      "HD 432",
+      "HR 21",
+      "SAO 21133",
+      "HIP 746",
+      "TYC 3664-1985-1"
+    ],
+    "magnitude": "2.27",
+    "distance": "54.7 light years",
+    "spectralType": "F2III",
+    "coordinates": "RA: 00h 09m 10.7s / Dec: +59deg 08' 59.2\"",
+    "summary": "Beta Cassiopeiae is a Delta Scuti variable star in the constellation of Cassiopeia. It has the proper name Caph, pronounced ; Beta Cassiopeiae is its Bayer designation, which is Latinized from beta Cassiopeiae and abbreviated Beta Cas or beta Cas. This is a giant star belonging to the spectral class F2. This white star of second magnitude (+2.28 mag, variable) has an absolute magnitude of +1.3 mag.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Cassiopeiae"
   },
   {
     "name": "Castor",
@@ -645,13 +782,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Gem",
+      "66 Gem",
+      "HD 60178J",
+      "SAO 60198",
+      "HIP 36850",
+      "BD+32 1581",
+      "GJ 278.0",
+      "FK5 287"
+    ],
+    "magnitude": "1.58",
+    "distance": "50.9 light years",
+    "spectralType": "A1V+A2Vm",
+    "coordinates": "RA: 07h 34m 35.9s / Dec: +31deg 53' 17.8\"",
+    "summary": "Castor most commonly refers to: Castor (star), a star in the Gemini constellation Castor, a genus name of the beaver Castor, one of the Dioscuri/Gemini twins Castor and Pollux in Greco-Roman mythology Caster or castor, a small undriven wheel Castor or CASTOR may also refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Castor"
   },
   {
     "name": "Deneb",
@@ -661,29 +807,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Deneb Kaitos",
-    "catalogId": 3419,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Cyg",
+      "50 Cyg",
+      "V* alf Cyg",
+      "HD 197345",
+      "HR 7924",
+      "SAO 49941",
+      "HIP 102098",
+      "TYC 3574-3347-1"
+    ],
+    "magnitude": "1.25",
+    "distance": "1412 light years",
+    "spectralType": "A2Ia",
+    "coordinates": "RA: 20h 41m 25.9s / Dec: +45deg 16' 49.2\"",
+    "summary": "Deneb () is a blue supergiant star in the constellation of Cygnus. It is the brightest star in the constellation and the 19th brightest in the night sky, with an apparent magnitude slightly varying between +1.21 and +1.29. Deneb is one of the vertices of the asterism known as the Summer Triangle and the \"head\" of the Northern Cross. Its Bayer designation is alpha Cygni, which is Latinised to Alpha Cygni...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Deneb"
   },
   {
     "name": "Denebola",
@@ -693,13 +832,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Leo",
+      "94 Leo",
+      "V* bet Leo",
+      "HD 102647",
+      "HR 4534",
+      "SAO 99809",
+      "HIP 57632",
+      "TYC 870-988-1"
+    ],
+    "magnitude": "2.13",
+    "distance": "35.9 light years",
+    "spectralType": "A3Va",
+    "coordinates": "RA: 11h 49m 03.6s / Dec: +14deg 34' 19.4\"",
+    "summary": "Denebola is the third-brightest star in the zodiac constellation of Leo. It is the easternmost of the bright stars of Leo. It has the Bayer designation Beta Leonis or beta Leonis, which are abbreviated Beta Leo or beta Leo. Denebola is an A-type main sequence star with 75% more mass than the Sun and 15 times the Sun's luminosity. Based on parallax measurements from the Hipparcos astrometry satellite, the...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Denebola"
   },
   {
     "name": "Diphda",
@@ -709,13 +857,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Cet",
+      "16 Cet",
+      "HD 4128",
+      "HR 188",
+      "SAO 147420",
+      "HIP 3419",
+      "TYC 5847-2333-1",
+      "BD-18 115"
+    ],
+    "magnitude": "2.01",
+    "distance": "96.3 light years",
+    "spectralType": "G9.5IIICH-1",
+    "coordinates": "RA: 00h 43m 35.4s / Dec: -17deg 59' 11.8\"",
+    "summary": "Beta Ceti (beta Ceti, abbreviated Beta Cet, beta Cet), officially named Diphda , is the brightest star in the constellation of Cetus. Although designated 'beta', it is actually brighter than the 'alpha' star in the constellation, Menkar, by half a magnitude. This orange giant is easy to identify due to its location in an otherwise dark section of the celestial sphere. Based on parallax measurements, it lies...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Ceti"
   },
   {
     "name": "Dschubba",
@@ -725,13 +882,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "del Sco",
+      "7 Sco",
+      "V* del Sco",
+      "HD 143275",
+      "HR 5953",
+      "SAO 184014",
+      "HIP 78401",
+      "TYC 6779-2194-1"
+    ],
+    "magnitude": "2.32",
+    "distance": "491.2 light years",
+    "spectralType": "B0.3IV",
+    "coordinates": "RA: 16h 00m 20.0s / Dec: -22deg 37' 18.1\"",
+    "summary": "Delta Scorpii (Latinised from delta Scorpii, abbreviated Delta Sco, delta Sco) is a binary star (the presence of a third star in the system is being debated) in the constellation of Scorpius. The primary star is named Dschubba .",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Delta_Scorpii"
   },
   {
     "name": "Dubhe",
@@ -741,45 +907,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Durre Menthor",
-    "catalogId": 8102,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Elnath",
-    "catalogId": 25428,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf UMa",
+      "50 UMa",
+      "HD 95689",
+      "HR 4301",
+      "SAO 15384",
+      "HIP 54061",
+      "BD+62 1161",
+      "FK5 417"
+    ],
+    "magnitude": "1.79",
+    "distance": "122.9 light years",
+    "spectralType": "G9III+A7.5",
+    "coordinates": "RA: 11h 03m 43.7s / Dec: +61deg 45' 03.7\"",
+    "summary": "Dubhe is a multiple star system in the northern constellation of Ursa Major. It is formally designated Alpha Ursae Majoris, Latinised from alpha Ursae Majoris, Despite being designated \"alpha\" (alpha), it is the second-brightest object in the constellation. Alpha Ursae Majoris is the northern of the 'pointers' (or 'guards'), the second being Beta Ursae Majoris, or 'Merak' - this pair of stars point towards...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Dubhe"
   },
   {
     "name": "Enif",
@@ -789,13 +932,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Peg",
+      "8 Peg",
+      "V* eps Peg",
+      "HD 206778",
+      "HR 8308",
+      "SAO 127029",
+      "HIP 107315",
+      "TYC 1125-2186-1"
+    ],
+    "magnitude": "2.39",
+    "distance": "689.5 light years",
+    "spectralType": "K2Ib-II",
+    "coordinates": "RA: 21h 44m 11.2s / Dec: +09deg 52' 30.0\"",
+    "summary": "Epsilon Pegasi (Latinised from epsilon Pegasi, abbreviated Epsilon Peg, epsilon Peg), formally named Enif , is the brightest star in the northern constellation of Pegasus. With an average apparent visual magnitude of 2.4, this is a second-magnitude star that is readily visible to the naked eye. The distance to this star can be estimated using parallax measurements from the Hipparcos astrometry satellite, yielding...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Epsilon_Pegasi"
   },
   {
     "name": "Etamin",
@@ -805,13 +957,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Dra",
+      "33 Dra",
+      "HD 164058",
+      "HR 6705",
+      "SAO 30653",
+      "HIP 87833",
+      "TYC 3523-1684-1",
+      "BD+51 2282"
+    ],
+    "magnitude": "2.23",
+    "distance": "154.3 light years",
+    "spectralType": "K5III",
+    "coordinates": "RA: 17h 56m 36.4s / Dec: +51deg 29' 20.0\"",
+    "summary": "Gamma Draconis (gamma Draconis, abbreviated Gamma Dra, gamma Dra), formally named Eltanin , is a star in the northern constellation of Draco. Contrary to its gamma-designation (historically third-ranked), it is the brightest object in Draco at magnitude 2.2, outshining Beta Draconis by nearly half a magnitude and Alpha Draconis by over a magnitude. Gamma Draconis is at a distance of 154.3 light-years (47.3...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gamma_Draconis"
   },
   {
     "name": "Fomalhaut",
@@ -821,29 +982,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Foramen",
-    "catalogId": 93308,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf PsA",
+      "24 PsA",
+      "HD 216956",
+      "HR 8728",
+      "SAO 191524",
+      "HIP 113368",
+      "TYC 6977-1267-1",
+      "CD-30 19370"
+    ],
+    "magnitude": "1.16",
+    "distance": "25.1 light years",
+    "spectralType": "A4V",
+    "coordinates": "RA: 22h 57m 39.0s / Dec: -29deg 37' 20.1\"",
+    "summary": "Fomalhaut (UK: , US: ) is the brightest star in the southern constellation of Piscis Austrinus, the Southern Fish, and one of the brightest stars in the night sky. It has the Bayer designation Alpha Piscis Austrini, which is an alternative form of alpha Piscis Austrini, and is abbreviated Alpha PsA or alpha PsA. This is a class A star on the main sequence approximately 25 light-years (7.7 pc) from the Sun...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Fomalhaut"
   },
   {
     "name": "Gacrux",
@@ -853,29 +1007,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Gemma",
-    "catalogId": 76267,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Cru",
+      "HD 108903",
+      "HR 4763",
+      "SAO 240019",
+      "HIP 61084",
+      "TYC 8654-3422-1",
+      "CD-56 4504",
+      "GJ 470"
+    ],
+    "magnitude": "1.64",
+    "distance": "88.6 light years",
+    "spectralType": "M3.5III",
+    "coordinates": "RA: 12h 31m 10.0s / Dec: -57deg 06' 47.6\"",
+    "summary": "Gacrux is the third-brightest star in the southern constellation of Crux, the Southern Cross. It has the Bayer designation Gamma Crucis, which is Latinised from gamma Crucis and abbreviated Gamma Cru or gamma Cru. With an apparent visual magnitude of +1.63, it is the 26th brightest star in the night sky. A line from the two \"Pointers\", Alpha Centauri through Beta Centauri, leads to within 1 north of this...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gacrux"
   },
   {
     "name": "Gienah",
@@ -885,45 +1032,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Girtab",
-    "catalogId": 86228,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Gruid",
-    "catalogId": 112122,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Cyg",
+      "eps Cyg A",
+      "eps Cyg B",
+      "53 Cyg",
+      "HD 197989",
+      "HR 7949",
+      "SAO 70474",
+      "HIP 102488"
+    ],
+    "magnitude": "2.48",
+    "distance": "72.7 light years",
+    "spectralType": "K0III",
+    "coordinates": "RA: 20h 46m 12.7s / Dec: +33deg 58' 12.9\"",
+    "summary": "Gienah was the traditional name of two stars, each marking a wing (Arabic al jana) of its constellation: Gamma Corvi aka Gienah Corvi, in Corvus Epsilon Cygni aka Gienah Cygni, in Cygnus The International Astronomical Union approved the name Gienah for Gamma Corvi A in 2016 and Aljanah for Epsilon Cygni Aa in 2017.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gienah"
   },
   {
     "name": "Hadar",
@@ -933,13 +1057,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Cen",
+      "V* bet Cen",
+      "HD 122451",
+      "HR 5267",
+      "SAO 252582",
+      "HIP 68702",
+      "CD-59 5054",
+      "FK5 518"
+    ],
+    "magnitude": "0.60",
+    "distance": "392.0 light years",
+    "spectralType": "B1III",
+    "coordinates": "RA: 14h 03m 49.4s / Dec: -60deg 22' 22.9\"",
+    "summary": "Hadar may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Hadar"
   },
   {
     "name": "Hamal",
@@ -949,29 +1082,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Herschel's Garnet Star",
-    "catalogId": 107259,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Ari",
+      "13 Ari",
+      "HD 12929",
+      "HR 617",
+      "SAO 75151",
+      "HIP 9884",
+      "TYC 1758-2416-1",
+      "BD+22 306"
+    ],
+    "magnitude": "2.01",
+    "distance": "65.8 light years",
+    "spectralType": "K2-IIIbCa-1",
+    "coordinates": "RA: 02h 07m 10.4s / Dec: +23deg 27' 44.7\"",
+    "summary": "Hamal, pronounced , is a star in the northern zodiacal constellation of Aries. It has the Bayer designation Alpha Arietis, which is Latinized from alpha Arietis and abbreviated Alpha Ari or alpha Ari. This star is visible to the naked eye with an apparent visual magnitude of 2.0. Hamal is the brightest star in the constellation and, on average, the 50th-brightest star in the night sky. Based upon parallax...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Hamal"
   },
   {
     "name": "Izar",
@@ -981,13 +1107,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Boo",
+      "36 Boo",
+      "HIP 72105",
+      "BD+27 2417",
+      "ADS 9372 AB",
+      "* STF 1877AB",
+      "HIC 72105",
+      "UBV 12876"
+    ],
+    "magnitude": "2.39",
+    "distance": "202.6 light years",
+    "spectralType": "A0",
+    "coordinates": "RA: 14h 44m 59.2s / Dec: +27deg 04' 27.2\"",
+    "summary": "Izar (from the Arabic word  izar, 'veil') may refer to: Izar, Iran, a village in Hormozgan Province, Iran Izar, a part of the Ihram clothing worn by male pilgrims during the Islamic Hajj Izaar, the Arabic name of a wrap clothing item commonly worn in Arabia, the Horn of Africa, and South and Southeast Asia, known elsewhere as a futah, sarong, izar, lungi, macawwis or mundu Izar, a star, also known...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Izar"
   },
   {
     "name": "Kaus Australis",
@@ -997,13 +1132,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eps Sgr",
+      "20 Sgr",
+      "HD 169022",
+      "HR 6879",
+      "SAO 210091",
+      "HIP 90185",
+      "TYC 7401-3471-1",
+      "CD-34 12784"
+    ],
+    "magnitude": "1.85",
+    "distance": "143.3 light years",
+    "spectralType": "B9.5III",
+    "coordinates": "RA: 18h 24m 10.3s / Dec: -34deg 23' 04.6\"",
+    "summary": "Epsilon Sagittarii (Latinised from epsilon Sagittarii, abbreviated Epsilon Sgr, epsilon Sgr), formally named Kaus Australis , is a binary star system in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of +1.85 makes it the brightest object in Sagittarius. Based upon parallax measurements, this star is around 143 light-years (44 parsecs) from the Sun.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Epsilon_Sagittarii"
   },
   {
     "name": "Kochab",
@@ -1013,61 +1157,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Koo She",
-    "catalogId": 42913,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Marchab",
-    "catalogId": 113963,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Marfikent",
-    "catalogId": 71352,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet UMi",
+      "7 UMi",
+      "HD 131873",
+      "HR 5563",
+      "SAO 8102",
+      "HIP 72607",
+      "TYC 4416-1799-1",
+      "BD+74 595"
+    ],
+    "magnitude": "2.08",
+    "distance": "130.9 light years",
+    "spectralType": "K4-III",
+    "coordinates": "RA: 14h 50m 42.3s / Dec: +74deg 09' 19.8\"",
+    "summary": "Kochab , Bayer designation Beta Ursae Minoris (beta Ursae Minoris, abbreviated beta UMi, Beta UMi), is the brightest star in the bowl of the Little Dipper asterism (which is part of the constellation of Ursa Minor), and only slightly fainter than Polaris, the northern pole star and brightest star in Ursa Minor. Kochab is 16 degrees from Polaris and has an apparent visual magnitude of 2.08. The distance to...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Ursae_Minoris"
   },
   {
     "name": "Markab",
@@ -1077,13 +1182,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Peg",
+      "54 Peg",
+      "HD 218045",
+      "HR 8781",
+      "SAO 108378",
+      "HIP 113963",
+      "TYC 1711-2475-1",
+      "BD+14 4926"
+    ],
+    "magnitude": "2.48",
+    "distance": "133.3 light years",
+    "spectralType": "B9III",
+    "coordinates": "RA: 23h 04m 45.7s / Dec: +15deg 12' 19.0\"",
+    "summary": "Markab may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Markab"
   },
   {
     "name": "Megrez",
@@ -1093,29 +1207,22 @@
       "title": "Megrez in the Big Dipper",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Men",
-    "catalogId": 71860,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "del UMa",
+      "69 UMa",
+      "HD 106591",
+      "HR 4660",
+      "SAO 28315",
+      "HIP 59774",
+      "TYC 3837-1070-1",
+      "BD+57 1363"
+    ],
+    "magnitude": "3.32",
+    "distance": "80.5 light years",
+    "spectralType": "A2Vn",
+    "coordinates": "RA: 12h 15m 25.6s / Dec: +57deg 01' 57.4\"",
+    "summary": "Megrez , also called Delta Ursae Majoris (delta Ursae Majoris, abbreviated Delta UMa, delta UMa), is a star in the northern constellation of Ursa Major. With an apparent magnitude of +3.3, it is the dimmest of the seven stars in the Big Dipper asterism. Parallax measurements yield a distance estimate of 80.5 light-years (24.7 parsecs) from the Sun.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Megrez"
   },
   {
     "name": "Menkalinan",
@@ -1125,13 +1232,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Aur",
+      "34 Aur",
+      "V* bet Aur",
+      "HD 40183",
+      "HR 2088",
+      "SAO 40750",
+      "HIP 28360",
+      "TYC 2924-2742-1"
+    ],
+    "magnitude": "1.90",
+    "distance": "81.1 light years",
+    "spectralType": "A1IV-Vp",
+    "coordinates": "RA: 05h 59m 31.7s / Dec: +44deg 56' 50.8\"",
+    "summary": "Beta Aurigae is a binary star system in the northern constellation of Auriga. Its identifier is a Bayer designation that is Latinized from beta Aurigae, and abbreviated Beta Aur or beta Aur. This star has the official name Menkalinan, pronounced . The combined apparent visual magnitude of the system is 1.9, making it the second-brightest member of the constellation after Capella. Using the parallax measurements...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Aurigae"
   },
   {
     "name": "Menkent",
@@ -1141,13 +1257,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "tet Cen",
+      "5 Cen",
+      "HD 123139",
+      "HR 5288",
+      "SAO 205188",
+      "HIP 68933",
+      "TYC 7293-2215-1",
+      "CD-35 9260"
+    ],
+    "magnitude": "2.05",
+    "distance": "58.8 light years",
+    "spectralType": "K0-IIIb",
+    "coordinates": "RA: 14h 06m 40.9s / Dec: -36deg 22' 11.8\"",
+    "summary": "Theta Centauri or theta Centauri, officially named Menkent (), is a single star in the southern constellation of Centaurus, the centaur. With an apparent visual magnitude of +2.06, it is the fourth-brightest member of the constellation. Based on parallax measurements obtained during the Hipparcos mission, it is about 58.8 light-years (18.0 parsecs) distant. It has a relatively high proper motion, traversing...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Theta_Centauri"
   },
   {
     "name": "Merak",
@@ -1157,13 +1282,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet UMa",
+      "48 UMa",
+      "HD 95418",
+      "HR 4295",
+      "SAO 27876",
+      "HIP 53910",
+      "TYC 3827-1079-1",
+      "BD+57 1302"
+    ],
+    "magnitude": "2.37",
+    "distance": "79.7 light years",
+    "spectralType": "A1IVps",
+    "coordinates": "RA: 11h 01m 50.5s / Dec: +56deg 22' 56.7\"",
+    "summary": "Merak may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Merak"
   },
   {
     "name": "Miaplacidus",
@@ -1173,13 +1307,22 @@
       "title": "Miaplacidus blue-white glow",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Car",
+      "HD 80007",
+      "HR 3685",
+      "SAO 250495",
+      "HIP 45238",
+      "TYC 9200-2603-1",
+      "CD-69 600",
+      "GJ 9292"
+    ],
+    "magnitude": "1.69",
+    "distance": "113.2 light years",
+    "spectralType": "A1III-",
+    "coordinates": "RA: 09h 13m 12.0s / Dec: -69deg 43' 01.9\"",
+    "summary": "Beta Carinae is the second-brightest star in the southern constellation of Carina. It has the official name Miaplacidus; Beta Carinae is the star's Bayer designation, which is Latinised from beta Carinae and abbreviated Beta Car or beta Car. With apparent magnitude of 1.69, it is one of the brightest stars in the night sky. It is the brightest star in the southern asterism known as the Diamond Cross, marking...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Carinae"
   },
   {
     "name": "Mimosa",
@@ -1189,13 +1332,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Cru",
+      "V* bet Cru",
+      "HD 111123",
+      "HR 4853",
+      "SAO 240259",
+      "HIP 62434",
+      "TYC 8659-3107-1",
+      "FK5 481"
+    ],
+    "magnitude": "1.25",
+    "distance": "278.5 light years",
+    "spectralType": "B1IV",
+    "coordinates": "RA: 12h 47m 43.3s / Dec: -59deg 41' 19.6\"",
+    "summary": "Mimosa is a genus of about 600 species of herbs and shrubs, in the mimosoid clade of the legume family Fabaceae. Species are native to the Americas, from North Dakota to northern Argentina, and to eastern Africa (Tanzania, Mozambique, and Madagascar) as well as the Indian subcontinent and Indochina. The generic name is derived from the Greek word mumuomicronsigma (mimos), 'actor' or 'mime', and the feminine suffix...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Mimosa"
   },
   {
     "name": "Mintaka",
@@ -1205,13 +1357,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "del Ori",
+      "34 Ori",
+      "V* del Ori",
+      "HD 36486",
+      "HR 1852",
+      "SAO 132220",
+      "HIP 25930",
+      "BD-00 983"
+    ],
+    "magnitude": "2.41",
+    "distance": "692.5 light years",
+    "spectralType": "B0III+O9V",
+    "coordinates": "RA: 05h 32m 00.4s / Dec: -00deg 17' 56.7\"",
+    "summary": "Mintaka , designation Delta Orionis (delta Orionis, abbreviated Delta Ori, delta Ori) and 34 Orionis (34 Ori), is a quintuple star system some 1,200 light-years from the Sun in the constellation of Orion. Together with Alnitak (Zeta Orionis) and Alnilam (Epsilon Orionis), the three stars form Orion's Belt, known by many names among ancient cultures. The star is located very close to the celestial equator....",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Mintaka"
   },
   {
     "name": "Mira",
@@ -1221,13 +1382,22 @@
       "title": "Mira in Cetus",
       "attribution": "NASA/JPL-Caltech"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "omi Cet",
+      "68 Cet",
+      "V* omi Cet",
+      "HD 14386",
+      "HR 681",
+      "SAO 129825",
+      "HIP 10826",
+      "TYC 4693-1144-1"
+    ],
+    "magnitude": "6.53",
+    "distance": "299.0 light years",
+    "spectralType": "M5-9IIIe+DA",
+    "coordinates": "RA: 02h 19m 20.8s / Dec: -02deg 58' 39.5\"",
+    "summary": "Mira (), designation Omicron Ceti (omicron Ceti, abbreviated Omicron Cet, omicron Cet), is a binary star in the constellation Cetus. The system consists of a variable red giant (Mira A) along with a white dwarf companion (Mira B). Mira A is a pulsating variable star and was the first non-supernova variable star discovered, with the possible exception of Algol. It is the prototype of the Mira variables. The system...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Mira"
   },
   {
     "name": "Mirach",
@@ -1237,29 +1407,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Mirfak",
-    "catalogId": 15863,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet And",
+      "43 And",
+      "HD 6860",
+      "HR 337",
+      "SAO 54471",
+      "HIP 5447",
+      "TYC 2286-1329-1",
+      "BD+34 198"
+    ],
+    "magnitude": "2.05",
+    "distance": "197.4 light years",
+    "spectralType": "M0+IIIa",
+    "coordinates": "RA: 01h 09m 43.9s / Dec: +35deg 37' 14.0\"",
+    "summary": "Mirach is a prominent star in the northern constellation of Andromeda. It is pronounced and has the Bayer designation Beta Andromedae, which is Latinized from beta Andromedae. This star is positioned northeast of the Great Square of Pegasus and is potentially visible to all observers north of latitude 54 S. It is commonly used by stargazers to find the Andromeda Galaxy. The galaxy NGC 404, also known...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Mirach"
   },
   {
     "name": "Mirzam",
@@ -1269,13 +1432,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet CMa",
+      "2 CMa",
+      "V* bet CMa",
+      "HD 44743",
+      "HR 2294",
+      "SAO 151428",
+      "HIP 30324",
+      "TYC 5938-2918-1"
+    ],
+    "magnitude": "1.97",
+    "distance": "492.7 light years",
+    "spectralType": "B1II-III",
+    "coordinates": "RA: 06h 22m 42.0s / Dec: -17deg 57' 21.3\"",
+    "summary": "Beta Canis Majoris is a star in the southern constellation of Canis Major, the \"Great Dog\". Its name is a Bayer designation; it has the proper name Mirzam, pronounced . Visible to the naked eye, this is a variable star that ranges in apparent visual magnitude from 1.97 to 2.01 over a period of six hours. Based on parallax measurements, it is located at a distance of about 500 light-years (150 parsecs...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Canis_Majoris"
   },
   {
     "name": "Mizar",
@@ -1285,45 +1457,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Muhlifein",
-    "catalogId": 61932,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Murzim",
-    "catalogId": 30324,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "zet UMa",
+      "79 UMa",
+      "HD 116656J",
+      "HIP 65378",
+      "ADS 8891 AB",
+      "* STF 1744AB",
+      "UBV 12102",
+      "UBV M 19361"
+    ],
+    "magnitude": "2.27",
+    "distance": "85.8 light years",
+    "spectralType": "A1.5Vas",
+    "coordinates": "RA: 13h 23m 55.5s / Dec: +54deg 55' 31.3\"",
+    "summary": "Mizar is a second-magnitude star in the handle of the Big Dipper asterism in the constellation of Ursa Major. It has the Bayer designation zeta Ursae Majoris (Latinised as Zeta Ursae Majoris). It forms a well-known naked eye double star with the fainter star Alcor (a binary system consisting of Alcor A and Alcor B), and is itself a quadruple star system. The Mizar and Alcor system lies about 83 light...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Mizar"
   },
   {
     "name": "Naos",
@@ -1333,13 +1482,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "zet Pup",
+      "V* zet Pup",
+      "HD 66811",
+      "HR 3165",
+      "SAO 198752",
+      "HIP 39429",
+      "TYC 7663-4093-1",
+      "CD-39 3939"
+    ],
+    "magnitude": "2.25",
+    "distance": "1084 light years",
+    "spectralType": "O4I(n)fp",
+    "coordinates": "RA: 08h 03m 35.0s / Dec: -40deg 00' 11.3\"",
+    "summary": "Naos may refer to: A naos or cella, the inner chamber in Greek and Roman temples An ancient Greek temple, called a naos in Koine Greek Naos (hieroglyph), an Egyptian hieroglyph Zeta Puppis, a star NAOS (satellite), an earth observation satellite",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Naos"
   },
   {
     "name": "Nunki",
@@ -1349,13 +1507,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "sig Sgr",
+      "34 Sgr",
+      "HD 175191",
+      "HR 7121",
+      "SAO 187448",
+      "HIP 92855",
+      "TYC 6868-1829-1",
+      "CD-26 13595"
+    ],
+    "magnitude": "2.07",
+    "distance": "227.8 light years",
+    "spectralType": "B2V",
+    "coordinates": "RA: 18h 55m 15.9s / Dec: -26deg 17' 48.2\"",
+    "summary": "Sigma Sagittarii, Latinized from sigma Sagittarii; formally named Nunki , is the second-brightest star in the constellation of Sagittarius. It is a binary star system, viewed as a single star of combined apparent magnitude +2.05, about the same brightness as Saiph in Orion. The distance to this system, determined using parallax measurements from the Hipparcos astrometry satellite, is 228 light-years (70...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Sigma_Sagittarii"
   },
   {
     "name": "Peacock",
@@ -1365,13 +1532,22 @@
       "title": "Peacock A from Earth",
       "attribution": "ESO/NASA (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Pav",
+      "HD 193924",
+      "HR 7790",
+      "SAO 246574",
+      "HIP 100751",
+      "TYC 8785-1898-1",
+      "FK5 764",
+      "SACS 447"
+    ],
+    "magnitude": "1.92",
+    "distance": "178.8 light years",
+    "spectralType": "B2IV",
+    "coordinates": "RA: 20h 25m 38.9s / Dec: -56deg 44' 06.3\"",
+    "summary": "Peafowl is a common name for two bird species of the genus Pavo and one species of the closely related genus Afropavo within the tribe Pavonini of the family Phasianidae (the pheasants and their allies). Male peafowl are referred to as peacocks, and female peafowl are referred to as peahens. Despite this, peacock is usually used to refer to both sexes, in common language. The two Asiatic species are...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Peafowl"
   },
   {
     "name": "Phad",
@@ -1381,29 +1557,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Phecda",
-    "catalogId": 58001,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam UMa",
+      "64 UMa",
+      "HD 103287",
+      "HR 4554",
+      "SAO 28179",
+      "HIP 58001",
+      "TYC 3833-1034-1",
+      "BD+54 1475"
+    ],
+    "magnitude": "2.44",
+    "distance": "83.2 light years",
+    "spectralType": "A0Ve+K2V",
+    "coordinates": "RA: 11h 53m 49.8s / Dec: +53deg 41' 41.1\"",
+    "summary": "Phecda , also called Gamma Ursae Majoris (gamma Ursae Majoris, abbreviated Gamma UMa, gamma UMa), is a star in the constellation of Ursa Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Based upon parallax measurements with the Hipparcos astrometry satellite, it is located at a distance of around 83.2 light-years (25.5 parsecs)...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Phecda"
   },
   {
     "name": "Polaris",
@@ -1413,13 +1582,22 @@
       "title": "Polaris and faint companion",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf UMi",
+      "1 UMi",
+      "V* alf UMi",
+      "HD 8890",
+      "HR 424",
+      "SAO 308",
+      "HIP 11767",
+      "TYC 4628-237-1"
+    ],
+    "magnitude": "2.02",
+    "distance": "432.6 light years",
+    "spectralType": "F8Ib",
+    "coordinates": "RA: 02h 31m 49.1s / Dec: +89deg 15' 50.8\"",
+    "summary": "Polaris is a star in the northern circumpolar constellation of Ursa Minor. It is designated alpha Ursae Minoris (Latinized to Alpha Ursae Minoris) and is commonly called the North Star. With an apparent magnitude that fluctuates around 1.98, it is the brightest star in the constellation and is readily visible to the naked eye at night. The position of the star lies less than 1 away from the north celestial...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Polaris"
   },
   {
     "name": "Pollux",
@@ -1429,13 +1607,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Gem",
+      "78 Gem",
+      "HD 62509",
+      "HR 2990",
+      "SAO 79666",
+      "HIP 37826",
+      "TYC 1920-2194-1",
+      "BD+28 1463"
+    ],
+    "magnitude": "1.14",
+    "distance": "33.8 light years",
+    "spectralType": "K0IIIb",
+    "coordinates": "RA: 07h 45m 18.9s / Dec: +28deg 01' 34.3\"",
+    "summary": "Pollux may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Pollux"
   },
   {
     "name": "Procyon",
@@ -1445,13 +1632,22 @@
       "title": "Procyon A and B",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf CMi",
+      "10 CMi",
+      "HD 61421",
+      "HR 2943",
+      "SAO 115756",
+      "HIP 37279",
+      "TYC 187-2184-1",
+      "BD+05 1739"
+    ],
+    "magnitude": "0.37",
+    "distance": "11.5 light years",
+    "spectralType": "F5IV-V+DQZ",
+    "coordinates": "RA: 07h 39m 18.1s / Dec: +05deg 13' 30.0\"",
+    "summary": "Procyon () is the brightest star in the constellation of Canis Minor and usually the eighth-brightest star in the night sky, with an apparent visual magnitude of 0.34. It has the Bayer designation alpha Canis Minoris, which is Latinized to Alpha Canis Minoris, and abbreviated alpha CMi or Alpha CMi, respectively. As determined by the European Space Agency Hipparcos astrometry satellite, this system lies at...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Procyon"
   },
   {
     "name": "Ras Alhague",
@@ -1461,13 +1657,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "Rasalhague",
+      "alf Oph",
+      "alf Oph A",
+      "55 Oph",
+      "HD 159561",
+      "HR 6556",
+      "SAO 102932",
+      "HIP 86032"
+    ],
+    "magnitude": "2.07",
+    "distance": "48.6 light years",
+    "spectralType": "A5IVnn",
+    "coordinates": "RA: 17h 34m 56.1s / Dec: +12deg 33' 36.1\"",
+    "summary": "Alpha Ophiuchi (alpha Ophiuchi, abbreviated Alpha Oph, alpha Oph), also named Rasalhague , is a binary star and the brightest star in the constellation of Ophiuchus.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alpha_Ophiuchi"
   },
   {
     "name": "Rasalhague",
@@ -1477,13 +1682,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Oph",
+      "alf Oph A",
+      "55 Oph",
+      "HD 159561",
+      "HR 6556",
+      "SAO 102932",
+      "HIP 86032",
+      "TYC 1000-2508-1"
+    ],
+    "magnitude": "2.07",
+    "distance": "48.6 light years",
+    "spectralType": "A5IVnn",
+    "coordinates": "RA: 17h 34m 56.1s / Dec: +12deg 33' 36.1\"",
+    "summary": "Alpha Ophiuchi (alpha Ophiuchi, abbreviated Alpha Oph, alpha Oph), also named Rasalhague , is a binary star and the brightest star in the constellation of Ophiuchus.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Alpha_Ophiuchi"
   },
   {
     "name": "Regor",
@@ -1493,13 +1707,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Vel",
+      "gam02 Vel",
+      "V* gam02 Vel",
+      "HD 68273",
+      "HR 3207",
+      "SAO 219504",
+      "HIP 39953",
+      "TYC 8140-6533-1"
+    ],
+    "magnitude": "1.83",
+    "distance": "1117 light years",
+    "spectralType": "WC8+O7.5III-V",
+    "coordinates": "RA: 08h 09m 32.0s / Dec: -47deg 20' 11.7\"",
+    "summary": "Gamma Velorum is a double star in the constellation Vela, with each of the two stars a spectroscopic binary. This name is the Bayer designation for the star, which is Latinised from gamma Velorum and abbreviated gamma Vel. At a combined magnitude of +1.72, it is one of the brightest stars in the night sky, and contains by far the closest and brightest Wolf-Rayet star. It has the traditional name Suhail al...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Gamma_Velorum"
   },
   {
     "name": "Regulus",
@@ -1509,13 +1732,22 @@
       "title": "Regulus in Leo",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Leo",
+      "32 Leo",
+      "HD 87901",
+      "HR 3982",
+      "SAO 98967",
+      "HIP 49669",
+      "TYC 833-1381-1",
+      "BD+12 2149"
+    ],
+    "magnitude": "1.40",
+    "distance": "79.3 light years",
+    "spectralType": "B8IVn",
+    "coordinates": "RA: 10h 08m 22.3s / Dec: +11deg 58' 02.0\"",
+    "summary": "Regulus is the brightest object in the constellation Leo and one of the brightest stars in the night sky. It has the Bayer designation designated alpha Leonis, which is Latinized to Alpha Leonis, and abbreviated Alpha Leo or alpha Leo. Regulus appears single, but is actually a quadruple star system composed of four stars that are organized into two pairs. The system lies approximately 79 light years from the...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Regulus"
   },
   {
     "name": "Rigel",
@@ -1525,45 +1757,22 @@
       "title": "Rigel and IC 2118",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Rigel Kent",
-    "catalogId": 71683,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Rigil Kentaurus",
-    "catalogId": 71683,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Ori",
+      "bet Ori A",
+      "19 Ori",
+      "V* bet Ori",
+      "HD 34085",
+      "HR 1713",
+      "SAO 131907",
+      "HIP 24436"
+    ],
+    "magnitude": "0.13",
+    "distance": "862.8 light years",
+    "spectralType": "B8Iae",
+    "coordinates": "RA: 05h 14m 32.3s / Dec: -08deg 12' 05.9\"",
+    "summary": "Rigel is a blue supergiant star in the constellation of Orion. It has the Bayer designation beta Orionis, which is Latinized to Beta Orionis and abbreviated Beta Ori or beta Ori. Rigel is the brightest and most massive component - and the eponym - of a star system of at least four stars that appear as a single blue-white point of light to the naked eye. This system is located at a distance of approximately...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Rigel"
   },
   {
     "name": "Sabik",
@@ -1573,29 +1782,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Sadira",
-    "catalogId": 16537,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "eta Oph",
+      "35 Oph",
+      "HD 155125",
+      "HR 6378",
+      "SAO 160332",
+      "HIP 84012",
+      "BD-15 4467",
+      "HGAM 661"
+    ],
+    "magnitude": "2.42",
+    "distance": "88.4 light years",
+    "spectralType": "A2IV-V",
+    "coordinates": "RA: 17h 10m 22.7s / Dec: -15deg 43' 29.7\"",
+    "summary": "Eta Ophiuchi is a binary star in the constellation of Ophiuchus. Its name is a Bayer designation that is Latinized from eta Ophiuchi, and abbreviated Eta Oph or eta Oph. With a combined apparent magnitude of +2.43, it is the second-brightest of the constellation and one of the brightest stars in the night sky. Based on parallax measurements taken during the Hipparcos mission, it is approximately 88 light...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Eta_Ophiuchi"
   },
   {
     "name": "Sadr",
@@ -1605,13 +1807,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "gam Cyg",
+      "37 Cyg",
+      "HD 194093",
+      "HR 7796",
+      "SAO 49528",
+      "HIP 100453",
+      "TYC 3156-2223-1",
+      "BD+39 4159"
+    ],
+    "magnitude": "2.23",
+    "distance": "1832 light years",
+    "spectralType": "F8Ib",
+    "coordinates": "RA: 20h 22m 13.7s / Dec: +40deg 15' 24.0\"",
+    "summary": "Sadr or SADR may refer to:",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Sadr"
   },
   {
     "name": "Saiph",
@@ -1621,13 +1832,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "kap Ori",
+      "53 Ori",
+      "HD 38771",
+      "HR 2004",
+      "SAO 132542",
+      "HIP 27366",
+      "TYC 5351-760-1",
+      "BD-09 1235"
+    ],
+    "magnitude": "2.06",
+    "distance": "647.1 light years",
+    "spectralType": "B0.5Ia",
+    "coordinates": "RA: 05h 47m 45.4s / Dec: -09deg 40' 10.6\"",
+    "summary": "Saiph , designation Kappa Orionis (kappa Orionis, abbreviated Kappa Ori, kappa Ori) and 53 Orionis (53 Ori), is a blue supergiant star and the sixth-brightest star in the constellation of Orion. Of the four bright stars that compose Orion's main quadrangle, it is the star at the south-eastern corner. A northern-hemisphere observer facing south would see it at the lower left of Orion, and a southern-hemisphere...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Saiph"
   },
   {
     "name": "Sargas",
@@ -1637,13 +1857,22 @@
       "title": "Sargas in Scorpius",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "tet Sco",
+      "HD 159532",
+      "HR 6553",
+      "SAO 228201",
+      "HIP 86228",
+      "CD-42 12312",
+      "FK5 654",
+      "* SEE 510"
+    ],
+    "magnitude": "1.86",
+    "distance": "300.3 light years",
+    "spectralType": "F1III",
+    "coordinates": "RA: 17h 37m 19.1s / Dec: -42deg 59' 52.2\"",
+    "summary": "Theta Scorpii (theta Scorpii, abbreviated Theta Sco, theta Sco) is a binary star in the southern zodiac constellation of Scorpius. The apparent visual magnitude of this star is +1.87, making it readily visible to the naked eye and one of the brightest stars in the night sky. It is sufficiently near that the distance can be measured directly using the parallax technique and such measurements obtained during...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Theta_Scorpii"
   },
   {
     "name": "Scheat",
@@ -1653,45 +1882,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Schedar",
-    "catalogId": 3179,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Scutulum",
-    "catalogId": 45556,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "bet Peg",
+      "53 Peg",
+      "V* bet Peg",
+      "HD 217906",
+      "HR 8775",
+      "SAO 90981",
+      "HIP 113881",
+      "TYC 2243-1831-1"
+    ],
+    "magnitude": "2.42",
+    "distance": "196.0 light years",
+    "spectralType": "M2.5II-III",
+    "coordinates": "RA: 23h 03m 46.5s / Dec: +28deg 04' 58.0\"",
+    "summary": "Beta Pegasi (beta Pegasi, abbreviated Beta Peg, beta Peg), formally named Scheat , is a red giant star and the second-brightest star (after Epsilon Pegasi) in the constellation of Pegasus. It forms the upper right corner of the Great Square of Pegasus, a prominent rectangular asterism.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Beta_Pegasi"
   },
   {
     "name": "Shaula",
@@ -1701,13 +1907,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "lam Sco",
+      "35 Sco",
+      "V* lam Sco",
+      "HD 158926",
+      "HR 6527",
+      "SAO 208954",
+      "HIP 85927",
+      "TYC 7388-1093-1"
+    ],
+    "magnitude": "1.62",
+    "distance": "571.2 light years",
+    "spectralType": "B2IV+DA7.9",
+    "coordinates": "RA: 17h 33m 36.5s / Dec: -37deg 06' 13.8\"",
+    "summary": "Lambda Scorpii is a triple star system and the second-brightest object in the constellation of Scorpius. It is formally named Shaula; Lambda Scorpii is its Bayer designation, which is Latinised from lambda Scorpii and abbreviated Lambda Sco or lambda Sco. With an apparent visual magnitude of 1.63, it is one of the brightest stars in the night sky.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Lambda_Scorpii"
   },
   {
     "name": "Sirius",
@@ -1717,45 +1932,22 @@
       "title": "Sirius A and B",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Sirrah",
-    "catalogId": 677,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "South Star",
-    "catalogId": 104382,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf CMa",
+      "9 CMa",
+      "HD 48915",
+      "HR 2491",
+      "SAO 151881",
+      "HIP 32349",
+      "BD-16 1591",
+      "* AGC 1"
+    ],
+    "magnitude": "-1.46",
+    "distance": "8.60 light years",
+    "spectralType": "A1V+DA",
+    "coordinates": "RA: 06h 45m 08.9s / Dec: -16deg 42' 58.0\"",
+    "summary": "Sirius is the brightest star in the night sky. Its name is derived from the Greek word Sigmaepsilonrhoiotaomicronsigma (Latin script: Seirios; lit. 'glowing' or 'scorching'). The star is designated alpha Canis Majoris, Latinized to Alpha Canis Majoris, and abbreviated alpha CMa or Alpha CMa. With a visual apparent magnitude of -1.46, Sirius is almost twice as bright as Canopus, the next brightest star. Sirius is a binary star consisting...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Sirius"
   },
   {
     "name": "Spica",
@@ -1765,13 +1957,22 @@
       "title": "Spica in Virgo",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Vir",
+      "67 Vir",
+      "V* alf Vir",
+      "HD 116658",
+      "HR 5056",
+      "SAO 157923",
+      "HIP 65474",
+      "TYC 5547-1518-1"
+    ],
+    "magnitude": "0.97",
+    "distance": "249.7 light years",
+    "spectralType": "B1V",
+    "coordinates": "RA: 13h 25m 11.6s / Dec: -11deg 09' 40.8\"",
+    "summary": "Spica is the brightest object in the constellation of Virgo and one of the 20 brightest stars in the night sky. It has the Bayer designation alpha Virginis, which is Latinised to Alpha Virginis and abbreviated Alpha Vir or alpha Vir. Analysis of its parallax shows that it is located 25010 light-years from the Sun. It is a spectroscopic binary star and rotating ellipsoidal variable; a system whose two stars...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Spica"
   },
   {
     "name": "Suhail",
@@ -1781,13 +1982,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "lam Vel",
+      "V* lam Vel",
+      "HD 78647",
+      "HR 3634",
+      "SAO 220878",
+      "HIP 44816",
+      "TYC 7689-2617-1",
+      "CD-42 4990"
+    ],
+    "magnitude": "2.21",
+    "distance": "544.5 light years",
+    "spectralType": "K4Ib",
+    "coordinates": "RA: 09h 07m 59.8s / Dec: -43deg 25' 57.3\"",
+    "summary": "Lambda Velorum (lambda Velorum, abbreviated Lambda Vel, lambda Vel), officially named Suhail , is a star in the southern constellation of Vela. With a mean apparent visual magnitude of 2.21, this is the third-brightest star in the constellation and one of the brighter stars in the sky. The distance to this star can be measured directly using the parallax technique, yielding an estimated 545 light-years (167...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Lambda_Velorum"
   },
   {
     "name": "Thuban",
@@ -1797,77 +2007,22 @@
       "title": "",
       "attribution": ""
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Toliman",
-    "catalogId": 71683,
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alpha_Centauri_from_Hubble.jpg/1024px-Alpha_Centauri_from_Hubble.jpg",
-      "title": "Alpha Centauri (Toliman) from Hubble",
-      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Tseen She",
-    "catalogId": 93308,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Tsih",
-    "catalogId": 4427,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Turais",
-    "catalogId": 45556,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Dra",
+      "11 Dra",
+      "HD 123299",
+      "HR 5291",
+      "SAO 16273",
+      "HIP 68756",
+      "TYC 4174-1262-1",
+      "BD+65 978"
+    ],
+    "magnitude": "3.68",
+    "distance": "303.1 light years",
+    "spectralType": "A0III",
+    "coordinates": "RA: 14h 04m 23.3s / Dec: +64deg 22' 33.1\"",
+    "summary": "Thuban (), with Bayer designation Alpha Draconis or alpha Draconis, is a binary star system in the northern constellation of Draco. A relatively inconspicuous star in the night sky of the Northern Hemisphere, it is historically significant as having been the north pole star from the 4th to 2nd millennium BC. Johann Bayer gave Thuban the designation Alpha and placed it as the only member of his secundae...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Thuban"
   },
   {
     "name": "Vega",
@@ -1877,29 +2032,22 @@
       "title": "Vega in Lyra",
       "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
-  },
-  {
-    "name": "Wei",
-    "catalogId": 82396,
-    "image": {
-      "src": "",
-      "title": "",
-      "attribution": ""
-    },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "alf Lyr",
+      "3 Lyr",
+      "V* alf Lyr",
+      "HD 172167",
+      "HR 7001",
+      "SAO 67174",
+      "HIP 91262",
+      "TYC 3105-2070-1"
+    ],
+    "magnitude": "0.03",
+    "distance": "25.0 light years",
+    "spectralType": "A0Va",
+    "coordinates": "RA: 18h 36m 56.3s / Dec: +38deg 47' 01.3\"",
+    "summary": "Vega is the brightest star in the northern constellation of Lyra. It has the Bayer designation alpha Lyrae, which is Latinised to Alpha Lyrae and abbreviated Alpha Lyr or alpha Lyr. This star is relatively close at only 25 light-years (7.7 parsecs) from the Sun, and one of the most luminous stars in the Sun's neighborhood. It is the fifth-brightest star in the night sky, and the second-brightest star in the...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Vega"
   },
   {
     "name": "Wezen",
@@ -1909,12 +2057,21 @@
       "title": "Wezen in Canis Major",
       "attribution": "ESA/Hubble & NASA"
     },
-    "aliases": [],
-    "magnitude": "",
-    "distance": "",
-    "spectralType": "",
-    "coordinates": "",
-    "summary": "",
-    "moreInfoUrl": ""
+    "aliases": [
+      "del CMa",
+      "25 CMa",
+      "HD 54605",
+      "HR 2693",
+      "SAO 173047",
+      "HIP 34444",
+      "TYC 6532-5001-1",
+      "Cl Collinder 121 31"
+    ],
+    "magnitude": "1.84",
+    "distance": "1607 light years",
+    "spectralType": "F8Ia",
+    "coordinates": "RA: 07h 08m 23.5s / Dec: -26deg 23' 35.5\"",
+    "summary": "Delta Canis Majoris is a supergiant star in the constellation of Canis Major. It is formally named Wezen (); Delta Canis Majoris is its Bayer designation. At an apparent magnitude of +1.83, it is the third-brightest star in the constellation. Based on parallax measurements, it is located at a distance of approximately 1,600 light years. Since 1943, the spectrum of this star has served as one of the...",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Delta_Canis_Majoris"
   }
 ]

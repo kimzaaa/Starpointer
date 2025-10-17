@@ -139,8 +139,11 @@ function useDragScroll<T extends HTMLElement>(
   }, [ref, ignoreSelector, activeClass]);
 }
 
+const hasDisplayImage = (meta?: StarImageMeta | null): meta is StarImageMeta =>
+  Boolean(meta?.src && meta.src.trim().length > 0);
+
 const initialSelected: Star | null = (() => {
-  const withImage = STARS.find(star => star.image);
+  const withImage = STARS.find(star => hasDisplayImage(star.image));
   return withImage ?? (STARS[0] ?? null);
 })();
 
@@ -155,6 +158,7 @@ export default function App() {
   const [selected, setSelected] = useState<Star | null>(initialSelected);
   const [pointedId, setPointedId] = useState<number | null>(null);
   const [query, setQuery] = useState("");
+  const [imageError, setImageError] = useState(false);
   const listRef = useRef<HTMLElement | null>(null);
   const detailsRef = useRef<HTMLElement | null>(null);
 
@@ -183,13 +187,19 @@ export default function App() {
 
   useEffect(() => {
     if (!selected) {
-      const fallback = filteredStars.find(star => star.image) ?? filteredStars[0] ?? null;
+      const fallback =
+        filteredStars.find(star => hasDisplayImage(star.image)) ??
+        filteredStars[0] ??
+        null;
       setSelected(fallback);
       return;
     }
     const stillVisible = filteredStars.some(star => star.id === selected.id);
     if (!stillVisible) {
-      const fallback = filteredStars.find(star => star.image) ?? filteredStars[0] ?? null;
+      const fallback =
+        filteredStars.find(star => hasDisplayImage(star.image)) ??
+        filteredStars[0] ??
+        null;
       setSelected(fallback);
     }
   }, [filteredStars, selected]);
@@ -205,11 +215,12 @@ export default function App() {
 
   const imageMeta = useMemo(() => {
     const candidate = selected?.image;
-    if (candidate && typeof candidate.src === "string" && candidate.src.trim()) {
+    if (hasDisplayImage(candidate)) {
       return candidate;
     }
     return FALLBACK_IMAGE;
   }, [selected]);
+  const resolvedImage = imageError ? FALLBACK_IMAGE : imageMeta;
   const starFacts =
     selected
       ? [
@@ -220,6 +231,22 @@ export default function App() {
         ].filter(fact => Boolean(fact.value))
       : [];
   const starDescription = selected?.summary ?? selected?.description ?? "";
+
+  useEffect(() => {
+    setImageError(false);
+  }, [imageMeta]);
+
+  const handleImageError = () => {
+    if (imageMeta !== FALLBACK_IMAGE) {
+      setImageError(true);
+    }
+  };
+  const imageAlt = selected
+    ? `${selected.name} star imagery`
+    : resolvedImage.title || "Star field imagery";
+  const captionTitle = resolvedImage.title || selected?.name || FALLBACK_IMAGE.title;
+  const captionAttribution =
+    resolvedImage.attribution || (selected ? `Visual reference for ${selected.name}` : FALLBACK_IMAGE.attribution);
 
   return (
     <FixedViewport>
@@ -273,34 +300,33 @@ export default function App() {
             })}
           </aside>
 
-          <section
-            className="star-details"
-            aria-live="polite"
-            ref={detailsRef}
-          >
-            {selected ? (
-              <>
-                {imageMeta && (
-                  <figure className="details-media">
-                    <div className="media-frame">
-                      <img
-                        src={imageMeta.src}
-                        alt={`${selected.name} star imagery`}
-                        loading="lazy"
-                        referrerPolicy="no-referrer"
-                      />
-                    </div>
-                    <figcaption className="media-caption">
-                      <strong>{imageMeta.title}</strong>
-                      <span>{imageMeta.attribution}</span>
-                    </figcaption>
-                  </figure>
-                )}
-                <header className="details-header">
-                  <h2>{selected.name}</h2>
-                  {selected.aliases?.length ? (
-                    <div className="details-aliases">
-                      Also known as {selected.aliases.join(", ")}
+      <section
+        className="star-details"
+        aria-live="polite"
+        ref={detailsRef}
+      >
+        <figure className="details-media">
+          <div className="media-frame">
+            <img
+              src={resolvedImage.src}
+              alt={imageAlt}
+              loading="lazy"
+              referrerPolicy="no-referrer"
+              onError={handleImageError}
+            />
+          </div>
+          <figcaption className="media-caption">
+            <strong>{captionTitle}</strong>
+            <span>{captionAttribution}</span>
+          </figcaption>
+        </figure>
+        {selected ? (
+          <>
+            <header className="details-header">
+              <h2>{selected.name}</h2>
+              {selected.aliases?.length ? (
+                <div className="details-aliases">
+                  Also known as {selected.aliases.join(", ")}
                     </div>
                   ) : null}
                 </header>
