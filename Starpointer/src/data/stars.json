@@ -1,0 +1,1920 @@
+[
+  {
+    "name": "Achernar",
+    "catalogId": 7588,
+    "image": {
+      "src": "https://www.star-facts.com/wp-content/uploads/2019/09/Achernar-Alpha-Eridani.webp",
+      "title": "Acherna",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "0.11",
+    "distance": "36.72 light years",
+    "spectralType": "K1.5IIIFe-0.5",
+    "coordinates": "Ra: 14h 16m49.3s Dec:+19°02'58.4",
+    "summary": "Arcturus is a red giant star in the northern constellation of Boötes, and the brightest star in the constellation. It has the Bayer designation α Boötis, which is Latinized to Alpha Boötis and abbreviated Alf Boo or α Boo.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Achernar"
+  },
+  {
+    "name": "Acrux",
+    "catalogId": 60718,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Adhara",
+    "catalogId": 33579,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Agena",
+    "catalogId": 68702,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Albireo",
+    "catalogId": 95947,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alcor",
+    "catalogId": 65477,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Aldebaran",
+    "catalogId": 21421,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alderamin",
+    "catalogId": 105199,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Algenib",
+    "catalogId": 15863,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Algieba",
+    "catalogId": 50583,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Algol",
+    "catalogId": 14576,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alhena",
+    "catalogId": 31681,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alioth",
+    "catalogId": 62956,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alkaid",
+    "catalogId": 67301,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Almach",
+    "catalogId": 9640,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alnair",
+    "catalogId": 109268,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alnilam",
+    "catalogId": 26311,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alnitak",
+    "catalogId": 26727,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alphard",
+    "catalogId": 46390,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alphecca",
+    "catalogId": 76267,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Alpheratz",
+    "catalogId": 677,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Altair",
+    "catalogId": 97649,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Aludra",
+    "catalogId": 35904,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Ankaa",
+    "catalogId": 2081,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Antares",
+    "catalogId": 80763,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Arcturus",
+    "catalogId": 69673,
+    "image": {
+      "src": "https://astropixels.com/stars/images/Arcturus-01w.jpg",
+      "title": "Arcturus captured by the Hubble Space Telescope",
+      "attribution": "NASA / ESA / STScI"
+    },
+    "aliases": [
+      "Alpha Bootis",
+      "16 Bootis",
+      "HD 124897",
+      "HR 5340",
+      "SAO 100944",
+      "HIP 69673",
+      "TYC 1472-1436-1"
+    ],
+    "magnitude": "0.11",
+    "distance": "36.7 light years",
+    "spectralType": "K1.5III Fe-0.5",
+    "coordinates": "RA 14h 16m 49.3s | Dec +19d 02m 58s",
+    "summary": "Arcturus is a red giant star in the northern constellation of Bootes and the brightest star in that constellation. The star has exhausted core hydrogen, expanded into an orange giant, and now fuses helium while radiating four times the Sun's energy.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Arcturus"
+  },
+  {
+    "name": "Arided",
+    "catalogId": 102098,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Aridif",
+    "catalogId": 102098,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Aspidiske",
+    "catalogId": 45556,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Atria",
+    "catalogId": 82273,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Avior",
+    "catalogId": 41037,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Becrux",
+    "catalogId": 62434,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Bellatrix",
+    "catalogId": 25336,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bellatrix_DSS.png/1200px-Bellatrix_DSS.png",
+      "title": "Bellatrix star field",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Benetnash",
+    "catalogId": 67301,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Betelgeuse",
+    "catalogId": 27989,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Betelgeuse_captured_by_ALMA.png/1024px-Betelgeuse_captured_by_ALMA.png",
+      "title": "Betelgeuse captured by ALMA",
+      "attribution": "ESO/ALMA (CC BY 4.0)"
+    },
+    "aliases": [
+      "Alpha Orionis",
+      "HD 39801",
+      "HR 2061",
+      "SAO 113271",
+      "HIP 27989"
+    ],
+    "magnitude": "0.42 (variable)",
+    "distance": "548 light years",
+    "spectralType": "M1-2 Ia-ab",
+    "coordinates": "RA 05h 55m 10.3s | Dec +07d 24m 25s",
+    "summary": "Betelgeuse is a red supergiant in the constellation Orion and one of the largest and most luminous stars visible to the naked eye. It is nearing the end of its life and is expected to explode as a supernova within the next million years.",
+    "moreInfoUrl": "https://en.wikipedia.org/wiki/Betelgeuse"
+  },
+  {
+    "name": "Birdun",
+    "catalogId": 66657,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Canopus",
+    "catalogId": 30438,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Capella",
+    "catalogId": 24608,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Caph",
+    "catalogId": 746,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Castor",
+    "catalogId": 36850,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Deneb",
+    "catalogId": 102098,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Deneb Kaitos",
+    "catalogId": 3419,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Denebola",
+    "catalogId": 57632,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Diphda",
+    "catalogId": 3419,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Dschubba",
+    "catalogId": 78401,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Dubhe",
+    "catalogId": 54061,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Durre Menthor",
+    "catalogId": 8102,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Elnath",
+    "catalogId": 25428,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Enif",
+    "catalogId": 107315,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Etamin",
+    "catalogId": 87833,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Fomalhaut",
+    "catalogId": 113368,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Foramen",
+    "catalogId": 93308,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Gacrux",
+    "catalogId": 61084,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Gemma",
+    "catalogId": 76267,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Gienah",
+    "catalogId": 102488,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Girtab",
+    "catalogId": 86228,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Gruid",
+    "catalogId": 112122,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Hadar",
+    "catalogId": 68702,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Hamal",
+    "catalogId": 9884,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Herschel's Garnet Star",
+    "catalogId": 107259,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Izar",
+    "catalogId": 72105,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Kaus Australis",
+    "catalogId": 90185,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Kochab",
+    "catalogId": 72607,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Koo She",
+    "catalogId": 42913,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Marchab",
+    "catalogId": 113963,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Marfikent",
+    "catalogId": 71352,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Markab",
+    "catalogId": 45941,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Megrez",
+    "catalogId": 59774,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Megrez_star.jpg/1024px-Megrez_star.jpg",
+      "title": "Megrez in the Big Dipper",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Men",
+    "catalogId": 71860,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Menkalinan",
+    "catalogId": 28360,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Menkent",
+    "catalogId": 68933,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Merak",
+    "catalogId": 53910,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Miaplacidus",
+    "catalogId": 45238,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Miaplacidus_star.jpg/1024px-Miaplacidus_star.jpg",
+      "title": "Miaplacidus blue-white glow",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mimosa",
+    "catalogId": 62434,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mintaka",
+    "catalogId": 25930,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mira",
+    "catalogId": 10826,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mira_star.jpg/1024px-Mira_star.jpg",
+      "title": "Mira in Cetus",
+      "attribution": "NASA/JPL-Caltech"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mirach",
+    "catalogId": 5447,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mirfak",
+    "catalogId": 15863,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mirzam",
+    "catalogId": 30324,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Mizar",
+    "catalogId": 65378,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Muhlifein",
+    "catalogId": 61932,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Murzim",
+    "catalogId": 30324,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Naos",
+    "catalogId": 39429,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Nunki",
+    "catalogId": 92855,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Peacock",
+    "catalogId": 100751,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Peacock_star.jpg/1024px-Peacock_star.jpg",
+      "title": "Peacock A from Earth",
+      "attribution": "ESO/NASA (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Phad",
+    "catalogId": 58001,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Phecda",
+    "catalogId": 58001,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Polaris",
+    "catalogId": 11767,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Polaris.jpg/1024px-Polaris.jpg",
+      "title": "Polaris and faint companion",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Pollux",
+    "catalogId": 37826,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Procyon",
+    "catalogId": 37279,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Procyon_star.jpg/1024px-Procyon_star.jpg",
+      "title": "Procyon A and B",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Ras Alhague",
+    "catalogId": 86032,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Rasalhague",
+    "catalogId": 86032,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Regor",
+    "catalogId": 39953,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Regulus",
+    "catalogId": 49669,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Regulus_star.jpg/1024px-Regulus_star.jpg",
+      "title": "Regulus in Leo",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Rigel",
+    "catalogId": 24436,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rigel_and_IC_2118.jpg/1024px-Rigel_and_IC_2118.jpg",
+      "title": "Rigel and IC 2118",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Rigel Kent",
+    "catalogId": 71683,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Rigil Kentaurus",
+    "catalogId": 71683,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sabik",
+    "catalogId": 84012,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sadira",
+    "catalogId": 16537,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sadr",
+    "catalogId": 100453,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Saiph",
+    "catalogId": 27366,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sargas",
+    "catalogId": 86228,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sargas_star.jpg/1024px-Sargas_star.jpg",
+      "title": "Sargas in Scorpius",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Scheat",
+    "catalogId": 113881,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Schedar",
+    "catalogId": 3179,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Scutulum",
+    "catalogId": 45556,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Shaula",
+    "catalogId": 85927,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sirius",
+    "catalogId": 32349,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sirius_A_and_B_Hubble_photo.jpg/1024px-Sirius_A_and_B_Hubble_photo.jpg",
+      "title": "Sirius A and B",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Sirrah",
+    "catalogId": 677,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "South Star",
+    "catalogId": 104382,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Spica",
+    "catalogId": 65474,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Spica_star.jpg/1024px-Spica_star.jpg",
+      "title": "Spica in Virgo",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Suhail",
+    "catalogId": 44816,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Thuban",
+    "catalogId": 68756,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Toliman",
+    "catalogId": 71683,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alpha_Centauri_from_Hubble.jpg/1024px-Alpha_Centauri_from_Hubble.jpg",
+      "title": "Alpha Centauri (Toliman) from Hubble",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Tseen She",
+    "catalogId": 93308,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Tsih",
+    "catalogId": 4427,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Turais",
+    "catalogId": 45556,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Vega",
+    "catalogId": 91262,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vega_star.jpg/1024px-Vega_star.jpg",
+      "title": "Vega in Lyra",
+      "attribution": "NASA/ESA Hubble Space Telescope (public domain)"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Wei",
+    "catalogId": 82396,
+    "image": {
+      "src": "",
+      "title": "",
+      "attribution": ""
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  },
+  {
+    "name": "Wezen",
+    "catalogId": 34444,
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wezen_star.jpg/1024px-Wezen_star.jpg",
+      "title": "Wezen in Canis Major",
+      "attribution": "ESA/Hubble & NASA"
+    },
+    "aliases": [],
+    "magnitude": "",
+    "distance": "",
+    "spectralType": "",
+    "coordinates": "",
+    "summary": "",
+    "moreInfoUrl": ""
+  }
+]
