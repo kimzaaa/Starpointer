@@ -1,6 +1,5 @@
 // src/App.tsx
 import { useEffect, useMemo, useRef, useState } from "react";
-import FixedViewport from "./FixedViewport";
 import { STARS, type Star, type StarImageMeta } from "./data/stars";
 import "./app.css";
 
@@ -249,7 +248,6 @@ export default function App() {
     resolvedImage.attribution || (selected ? `Visual reference for ${selected.name}` : FALLBACK_IMAGE.attribution);
 
   return (
-    <FixedViewport>
       <div className={`screen ${night ? "night" : ""}`}>
         <main className="content">
           <aside
@@ -394,7 +392,6 @@ export default function App() {
           </div>
         </footer>
       </div>
-    </FixedViewport>
   );
 }
 //image gone when all info are placed in .json
