@@ -28,7 +28,7 @@
     "name": "Acrux",
     "catalogId": 60718,
     "image": {
-      "src": "",
+      "src": "https://storage.googleapis.com/theskylive-static/website/sky/stars/star-images/47/4730_800.jpg",
       "title": "",
       "attribution": ""
     },
@@ -53,7 +53,7 @@
     "name": "Adhara",
     "catalogId": 33579,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2019/09/Adhara-Epsilon-Canis-Majoris.webp",
       "title": "",
       "attribution": ""
     },
@@ -78,7 +78,7 @@
     "name": "Albireo",
     "catalogId": 95947,
     "image": {
-      "src": "",
+      "src": "https://dq0hsqwjhea1.cloudfront.net/Alberio-Capella-Observatory-ST.jpg",
       "title": "",
       "attribution": ""
     },
@@ -103,7 +103,7 @@
     "name": "Alcor",
     "catalogId": 65477,
     "image": {
-      "src": "",
+      "src": "https://www.astronomy.com/wp-content/uploads/2023/03/9AlcorandMizar.jpg",
       "title": "",
       "attribution": ""
     },
@@ -128,7 +128,7 @@
     "name": "Aldebaran",
     "catalogId": 21421,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUJjS7fT99BGMdZohCKlJ0r60yoYfuu2S_Q&s",
       "title": "",
       "attribution": ""
     },
@@ -153,7 +153,7 @@
     "name": "Alderamin",
     "catalogId": 105199,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2019/10/Alderamin-Alpha-Cephei.webp",
       "title": "",
       "attribution": ""
     },
@@ -178,7 +178,7 @@
     "name": "Algenib",
     "catalogId": 15863,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/04/Algenib-Gamma-Pegasi.webp",
       "title": "",
       "attribution": ""
     },
@@ -203,7 +203,7 @@
     "name": "Algieba",
     "catalogId": 50583,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2021/01/Algieba-Gamma-Leonis.webp",
       "title": "",
       "attribution": ""
     },
@@ -228,7 +228,7 @@
     "name": "Algol",
     "catalogId": 14576,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvh5NzkxVMnYI821sMgVrpCqwLSeK7Iei3A&s",
       "title": "",
       "attribution": ""
     },
@@ -253,7 +253,7 @@
     "name": "Alhena",
     "catalogId": 31681,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yJM9rch48B9FEjTpfgwHq-zzOc6cr12R9g&s",
       "title": "",
       "attribution": ""
     },
@@ -278,7 +278,7 @@
     "name": "Alioth",
     "catalogId": 62956,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2019/09/Alioth-Epsilon-Ursae-Majoris-1.webp",
       "title": "",
       "attribution": ""
     },
@@ -303,7 +303,7 @@
     "name": "Alkaid",
     "catalogId": 67301,
     "image": {
-      "src": "",
+      "src": "https://nineplanets.org/wp-content/uploads/2020/02/Dss2-color.jpg",
       "title": "",
       "attribution": ""
     },
@@ -328,7 +328,7 @@
     "name": "Alnair",
     "catalogId": 109268,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2019/10/Alnair-Alpha-Gruis.webp",
       "title": "",
       "attribution": ""
     },
@@ -353,7 +353,7 @@
     "name": "Alnilam",
     "catalogId": 26311,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkAwqEzd_23brk4vMl_KChXX4mV5Gcq99rg&s",
       "title": "",
       "attribution": ""
     },
@@ -378,7 +378,7 @@
     "name": "Alnitak",
     "catalogId": 26727,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaq1zv4EFoOW7rIdLj2K1tTdvUcrWkgx6sg&s",
       "title": "",
       "attribution": ""
     },
@@ -403,7 +403,7 @@
     "name": "Alphard",
     "catalogId": 46390,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/03/Alphard-Alpha-Hydrae.webp",
       "title": "",
       "attribution": ""
     },
@@ -428,7 +428,7 @@
     "name": "Alpheratz",
     "catalogId": 677,
     "image": {
-      "src": "",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alpheratz.gif",
       "title": "",
       "attribution": ""
     },
@@ -453,7 +453,7 @@
     "name": "Altair",
     "catalogId": 97649,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxx1z9nEE1H4CE_HGMneUZ2TCqgvHxUruYqg&s",
       "title": "",
       "attribution": ""
     },
@@ -478,7 +478,7 @@
     "name": "Aludra",
     "catalogId": 35904,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/09/Aludra-PGC-20825-PGC-20908-and-PGC-86038.jpg",
       "title": "",
       "attribution": ""
     },
@@ -503,7 +503,7 @@
     "name": "Ankaa",
     "catalogId": 2081,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/09/Ankaa.webp",
       "title": "",
       "attribution": ""
     },
@@ -528,7 +528,7 @@
     "name": "Antares",
     "catalogId": 80763,
     "image": {
-      "src": "",
+      "src": "https://www.mos.org/sites/default/files/styles/max_width_2400/public/2025-06/Antares_artist_image_credit_ESO-M_Kornmesser.jpg?itok=s1eTrhYU",
       "title": "",
       "attribution": ""
     },
@@ -553,7 +553,7 @@
     "name": "Arcturus",
     "catalogId": 69673,
     "image": {
-      "src": "https://astropixels.com/stars/images/Arcturus-01w.jpg",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYa5SViuutKdH18B7oeV--AuLrT_MDsxIW0g&s",
       "title": "Arcturus captured by the Hubble Space Telescope",
       "attribution": "NASA / ESA / STScI"
     },
@@ -578,7 +578,7 @@
     "name": "Aspidiske",
     "catalogId": 45556,
     "image": {
-      "src": "",
+      "src": "https://storage.googleapis.com/theskylive-static/website/sky/stars/star-images/36/3699_800.jpg",
       "title": "",
       "attribution": ""
     },
@@ -603,7 +603,7 @@
     "name": "Atria",
     "catalogId": 82273,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/06/Atria.webp",
       "title": "",
       "attribution": ""
     },
@@ -628,7 +628,7 @@
     "name": "Avior",
     "catalogId": 41037,
     "image": {
-      "src": "",
+      "src": "https://www.star-facts.com/wp-content/uploads/2020/06/Avior.webp",
       "title": "",
       "attribution": ""
     },
@@ -703,7 +703,7 @@
     "name": "Canopus",
     "catalogId": 30438,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuVG0JEjTUa_3ajkA4au1P_CkiCKi7-ZU0A&s",
       "title": "",
       "attribution": ""
     },
@@ -728,7 +728,7 @@
     "name": "Capella",
     "catalogId": 24608,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeyTyTq_HZ65Se73aPNI4k0eBJI6vp6lEoA&s",
       "title": "",
       "attribution": ""
     },
@@ -753,7 +753,7 @@
     "name": "Caph",
     "catalogId": 746,
     "image": {
-      "src": "",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTucHi-LWSuoaao79fU5kho4qeY8s7tO_DiRQ&s",
       "title": "",
       "attribution": ""
     },
@@ -778,7 +778,7 @@
     "name": "Castor",
     "catalogId": 36850,
     "image": {
-      "src": "",
+      "src": "https://storage.googleapis.com/theskylive-static/website/sky/stars/star-images/28/2891_800.jpg",
       "title": "",
       "attribution": ""
     },
